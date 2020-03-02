@@ -1,4 +1,4 @@
-# HJC-nice-practice
+# HJC-nice-practice (Html, Js, Css)
 Collection of some practice/general rule we used to write nice HTML, JS and CSS
 
 ## Purpose:
