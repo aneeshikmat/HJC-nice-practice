@@ -1,5 +1,5 @@
 # HJC-nice-practice (Html, Js, Css)
-Collection of some practice/general rule we used to write nice HTML, JS and CSS
+Collection of some practice/general rule we used to write nice HTML, JS and CSS scripts.
 
 ## Purpose:
 the purpose of this documentation to be the reference for the consistent SCSS/CSS, we have checked the best/most practices regarding CSS and styling in general. It provides a set of standards to help creating a CSS/SCSS document that is easy to read and easy to maintain.
