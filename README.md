@@ -43,8 +43,7 @@ the purpose of this documentation to be the reference for the consistent SCSS/CS
  - Html comment most be added before any main section and for each group / rows / menus / js file / css file..etc
  - Most be set comment before any CSS main section, this comment may be like this: 
  ```comCode
- /* ---------------------------------------------------------
- 1. Main Sction ---------------------------------------------------------*/
+ /* ----------------- 1. Main Sction ----------------- */
  ```
  - We most add comment to describe the job for each custom js file in the top of file.
  - We most add comment to each js method thats describe method job, and params type & value, also return type if set.
